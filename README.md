@@ -37,6 +37,3 @@ The distance between the two points is: 2.83
 ## Author
 Name: Ian Francis E. Castillo
 Section: Grade 8-Sampaguita
-Name:
-Grade
-Section:
