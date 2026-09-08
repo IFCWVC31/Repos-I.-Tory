@@ -2,7 +2,7 @@
 
 ## Description
 
-This purpose of this program is to calculate the distance between two points on a Cartesian Coordinate Plane. Made originally for the Formative Assessment 4, Computer Science 2.
+The purpose of this program is to calculate the distance between two points on a Cartesian Coordinate Plane. Made originally for the Formative Assessment 4, Computer Science 2.
 
 ## How to Run
 
